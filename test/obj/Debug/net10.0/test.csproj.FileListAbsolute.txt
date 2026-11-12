@@ -1,0 +1,14 @@
+/home/yazan/Desktop/meinCodes/test/test/bin/Debug/net10.0/test
+/home/yazan/Desktop/meinCodes/test/test/bin/Debug/net10.0/test.deps.json
+/home/yazan/Desktop/meinCodes/test/test/bin/Debug/net10.0/test.runtimeconfig.json
+/home/yazan/Desktop/meinCodes/test/test/bin/Debug/net10.0/test.dll
+/home/yazan/Desktop/meinCodes/test/test/bin/Debug/net10.0/test.pdb
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.AssemblyInfoInputs.cache
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.AssemblyInfo.cs
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.csproj.CoreCompileInputs.cache
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.dll
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/refint/test.dll
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.pdb
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/test.genruntimeconfig.cache
+/home/yazan/Desktop/meinCodes/test/test/obj/Debug/net10.0/ref/test.dll
